@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libX11_6
+sdesc: "Xorg X window dump displayer"
+ldesc: "Xorg X window dump displayer"
