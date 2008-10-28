@@ -1,6 +1,6 @@
 xwud
 ------------------------------------------
-Xorg X window dump displayer
+X.Org X window dump displayer
 
 Runtime requirements:
   cygwin-1.5.20-1
