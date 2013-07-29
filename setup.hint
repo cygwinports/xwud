@@ -1,4 +1,0 @@
-category: X11
-requires: libX11_6
-sdesc: "X.Org X window dump displayer"
-ldesc: "X.Org X window dump displayer"
